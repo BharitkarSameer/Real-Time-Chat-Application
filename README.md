@@ -42,3 +42,5 @@ Although Snappy already provides a robust foundation, numerous extensions can el
 # OUTPUT OF THE TASK
 
 https://github.com/og-rishi/-REAL-TIME-CHAT-APPLICATION/issues/2#issue-3233229454
+
+https://github.com/og-rishi/-REAL-TIME-CHAT-APPLICATION/issues/1
