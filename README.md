@@ -39,8 +39,4 @@ Recognizing the complexities of modern development environments, Snappy includes
 
 Although Snappy already provides a robust foundation, numerous extensions can elevate it into a full‑scale messaging platform. Adding user authentication—via JWT or OAuth integrations—would enable private, secure chat rooms and user profiles. Implementing private and group chat logic through Socket.io namespaces would allow multiple distinct conversations to coexist. Media sharing features, such as file uploads to AWS S3 or another blob store, could turn Snappy into a rich communication tool. Offline support using service workers and IndexedDB caching would improve resilience in low‑connectivity scenarios. Finally, integrating analytics libraries like Chart.js or Recharts into an administrative dashboard could surface valuable insights—such as peak usage times or most active rooms—empowering developers and stakeholders alike to understand and optimize user engagement.
 
-# OUTPUT OF THE TASK
 
-https://github.com/og-rishi/-REAL-TIME-CHAT-APPLICATION/issues/2#issue-3233229454
-
-https://github.com/og-rishi/-REAL-TIME-CHAT-APPLICATION/issues/1
